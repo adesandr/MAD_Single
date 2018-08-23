@@ -1,6 +1,6 @@
 # MAD_Single
 
-All files you need to build a sample Angle & Travel calculator using and arduino pro mini and an MPU 6050
+All files you need to build a sample Angle & Travel calculator using an arduino pro mini and an MPU 6050
 
 This version is a single control surface version using : 
 
